@@ -1,1 +1,8 @@
-
+{
+  "name": "telegram-finance-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "googleapis": "^126.0.1"
+  }
+}
